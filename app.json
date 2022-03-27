@@ -224,7 +224,7 @@
       },
       "ALIVE_NAME": {
         "value": "",
-        "required": true  
+        "required": false  
       },
       "ALIVE_TEXT": {
         "value": "",
