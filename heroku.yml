@@ -1,0 +1,5 @@
+build:
+  docker:
+    Mig: Dockerfile
+run:
+  Mig: python3 -m BhaukaalBaba
