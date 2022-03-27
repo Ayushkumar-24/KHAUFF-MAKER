@@ -230,16 +230,16 @@
         "required": false
       },
       "CMD_HNDLR": {
-        "value": "",
-        "required": false
+        "value": ".",
+        "required": true
       },
       "HEROKU_APP_NAME": {
         "value": "",
-        "required": false
+        "required": true
       },
       "HEROKU_API_KEY": {
         "value": "",
-        "required": false
+        "required": true
       },
       "OWNER_ID": {
         "description": "Sudo Users Id",
@@ -249,7 +249,7 @@
       "SUDO_USER": {
         "description": "Sudo Users Id",
         "value": "",
-        "required": true
+        "required": false
       }
   },
   "addons": [{
