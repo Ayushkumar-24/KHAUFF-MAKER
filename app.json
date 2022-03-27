@@ -1,0 +1,270 @@
+{
+  "name": "BHAUKAAL BABA",
+  "logo": "https://te.legra.ph/file/b0c3940938057f3b3749c.jpg",
+  "keywords": [
+    "spambot",
+    "telegram",
+    "userbot"
+  ],
+    "env": {
+      "STRING": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": true
+      },
+      "STRING2": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING3": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING4": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING5": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING6": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING7": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING8": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING9": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING10": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING11": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING12": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING13": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING14": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING15": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING16": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING17": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING18": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING19": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING20": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING21": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING22": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING23": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING24": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING25": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING26": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING27": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING28": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING29": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING30": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING31": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING32": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING33": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING34": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING35": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING36": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING37": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING38": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING39": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "STRING40": {
+        "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "API_ID": {
+        "description": "𝐴𝑃𝐼 𝐼𝐷",
+        "value": "",
+        "required": true
+      },
+      "API_HASH": {
+        "description": "Api Hash",
+        "value": "",
+        "required": true
+      },
+      "ALIVE_PIC": {
+        "value": "https://te.legra.ph/file/b0c3940938057f3b3749c.jpg",
+        "required": false
+      },
+      "ALIVE_NAME": {
+        "value": "",
+        "required": true  
+      },
+      "ALIVE_TEXT": {
+        "value": "",
+        "required": false
+      },
+      "CMD_HNDLR": {
+        "value": "",
+        "required": false
+      },
+      "HEROKU_APP_NAME": {
+        "value": "",
+        "required": false
+      },
+      "HEROKU_API_KEY": {
+        "value": "",
+        "required": false
+      },
+      "OWNER_ID": {
+        "description": "Sudo Users Id",
+        "value": "",
+        "required": true
+      },
+      "SUDO_USER": {
+        "description": "Sudo Users Id",
+        "value": "",
+        "required": true
+      }
+  },
+  "addons": [{
+    "plan": "heroku-postgresql",
+    "options": {
+      "version": "12"
+    }
+  }],
+  "buildpacks": [{
+    "url": "https://github.com/opendoor-labs/heroku-buildpack-p7zip"
+  },{
+    "url": "https://github.com/heroku/heroku-buildpack-apt.git"
+  },{
+    "url": "https://github.com/chrismytton/heroku-buildpack-jq"
+  },{
+    "url": "heroku/python"
+  }]
+}
