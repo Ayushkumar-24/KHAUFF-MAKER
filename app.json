@@ -6,6 +6,7 @@
     "telegram",
     "userbot"
   ],
+  "repository": "https://github.com/ERR0rMK/BhaukaalBaba",
     "env": {
       "STRING": {
         "description": "Telethon String Session",
