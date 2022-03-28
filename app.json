@@ -1,12 +1,12 @@
 {
-  "name": "BHAUKAAL BABA",
+  "name": "KHOUF MAKER",
   "logo": "https://te.legra.ph/file/b0c3940938057f3b3749c.jpg",
   "keywords": [
     "spambot",
     "telegram",
     "userbot"
   ],
-  "repository": "https://github.com/ERR0rMK/BhaukaalBaba",
+  "repository": "https://github.com/Ayushkumar-24/Khauf maker",
     "env": {
       "STRING": {
         "description": "Telethon String Session",
