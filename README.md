@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://te.legra.ph/file/b0c3940938057f3b3749c.jpg"width="350"" alt="BhaukaalBaba Logo">
+  <img src="https://te.legra.ph/file/d1993aaca2f7e169b50ba.jpg"" alt="BhaukaalBaba Logo">
 </p>
 <h1 align="center">
-  <b>⚠️ BHAUKAAL BABA ⚠️</b>
+  <b>💀 KHAUF MAKER 💀</b>
 </h1>
 
 # Deploy To Heroku
